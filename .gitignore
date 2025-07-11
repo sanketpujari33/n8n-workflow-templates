@@ -21,7 +21,6 @@ wheels/
 *.egg
 
 # Virtual environments
-.env
 .venv
 env/
 venv/
@@ -30,7 +29,6 @@ env.bak/
 venv.bak/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -81,3 +79,4 @@ workflow_rename_log.json
 # Node.js artifacts (if using npm)
 node_modules/
 package-lock.json
+config.bat

@@ -4,6 +4,9 @@
 Start the advanced search system with optimized performance.
 """
 
+import utils.http_session
+import utils.transport
+import utils.session
 import sys
 import os
 import argparse
